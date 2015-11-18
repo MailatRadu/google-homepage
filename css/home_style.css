@@ -100,6 +100,7 @@ button:hover{
 ul[class="right-f"], ul[class="left-f"]
 {
  	list-style-type: none;
+ 	margin:10px;
 }
 ul[class="right-f"] li {
 	float:right;
